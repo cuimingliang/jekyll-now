@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listen to Peter Druker
+title: Peter Druker Quotes
 ---
 
 >One cannot manage change.  
